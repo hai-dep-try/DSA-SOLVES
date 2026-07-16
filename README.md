@@ -21,19 +21,48 @@ Các bài tập trong repository này được tổng hợp từ nhiều nền t
 - CSES
 - HackerRank
 
-## Danh sách các bài tập đáng lưu ý (Notable Problems)
-Dưới đây là danh sách các bài tập tiêu biểu có trong repository, đại diện cho các cách giải hay hoặc các thuật toán đặc trưng:
+## Danh sách toàn bộ bài tập (All Problems)
+Dưới đây là danh sách đầy đủ tất cả các bài tập đã giải quyết trong repository:
 
 | Tên bài | Nền tảng (OJ) | Chủ đề | Độ khó | Link file code |
 | :--- | :--- | :--- | :--- | :--- |
-| Movie Festival | CSES | Greedy, Interval Scheduling | Dễ/Trung bình | [cses_1629_movie_festival.cpp](file:///f:/Baitapc++/DSA-Solves/02-Array-TwoPointers/cses_1629_movie_festival.cpp) |
-| 3Sum Closest | LeetCode | Array, Two Pointers | Trung bình | [leetcode_16_3sum_closest.cpp](file:///f:/Baitapc++/DSA-Solves/02-Array-TwoPointers/leetcode_16_3sum_closest.cpp) |
-| Largest Rectangle in Histogram | LeetCode | Monotonic Stack, Data Structures | Khó | [leetcode_84_largest_rectangle.cpp](file:///f:/Baitapc++/DSA-Solves/05-Data-Structures/leetcode_84_largest_rectangle.cpp) |
-| News Distribution | Codeforces | DSU, Connected Components | Trung bình | [codeforces_1167c_news_distribution.cpp](file:///f:/Baitapc++/DSA-Solves/07-Disjoint-Set-Union/codeforces_1167c_news_distribution.cpp) |
-| Monkeys | VNOJ | DSU, Offline Queries | Khó | [vnoj_monkeys.cpp](file:///f:/Baitapc++/DSA-Solves/07-Disjoint-Set-Union/vnoj_monkeys.cpp) |
-| Colquery | VNOJ | DSU, Small-to-Large Merge | Khó | [vnoj_colquery.cpp](file:///f:/Baitapc++/DSA-Solves/07-Disjoint-Set-Union/vnoj_colquery.cpp) |
+| Missing Number | CSES | Math Introductory | Easy | [cses_missing_number.py](./01-Math-Introductory/cses_missing_number.py) |
+| Number Spiral | CSES | Math Introductory | Easy | [cses_number_spiral.py](./01-Math-Introductory/cses_number_spiral.py) |
+| Euclidgcd | Math / General | Math Introductory | Easy | [math_euclidgcd.py](./01-Math-Introductory/math_euclidgcd.py) |
+| Fibonacci String | Math / General | Math Introductory | Easy | [math_fibonacci_string.py](./01-Math-Introductory/math_fibonacci_string.py) |
+| 1681C - Double Sort | Codeforces | Array TwoPointers | Medium | [codeforces_1681c_double_sort.cpp](./02-Array-TwoPointers/codeforces_1681c_double_sort.cpp) |
+| 1629 - Movie Festival | CSES | Array TwoPointers | Medium | [cses_1629_movie_festival.cpp](./02-Array-TwoPointers/cses_1629_movie_festival.cpp) |
+| Increasing Array | CSES | Array TwoPointers | Medium | [cses_increasing_array.py](./02-Array-TwoPointers/cses_increasing_array.py) |
+| 16 - 3Sum Closest | LeetCode | Array TwoPointers | Medium | [leetcode_16_3sum_closest.cpp](./02-Array-TwoPointers/leetcode_16_3sum_closest.cpp) |
+| Circular Array Distance | Math / General | Array TwoPointers | Medium | [math_circular_array_distance.cpp](./02-Array-TwoPointers/math_circular_array_distance.cpp) |
+| Pointers Template | General | Array TwoPointers | Easy | [two_pointers_template.py](./02-Array-TwoPointers/two_pointers_template.py) |
+| Bfs Social | Graph / General | Graph BFS DFS | Medium | [graph_bfs_social.py](./03-Graph-BFS-DFS/graph_bfs_social.py) |
+| Bfs Template | Graph / General | Graph BFS DFS | Easy | [graph_bfs_template.cpp](./03-Graph-BFS-DFS/graph_bfs_template.cpp) |
+| Input Skeleton | Graph / General | Graph BFS DFS | Medium | [graph_input_skeleton.cpp](./03-Graph-BFS-DFS/graph_input_skeleton.cpp) |
+| Permutations | Math / General | Backtracking Permutations | Medium | [math_permutations.py](./04-Backtracking-Permutations/math_permutations.py) |
+| Permutations 2 | Math / General | Backtracking Permutations | Medium | [math_permutations_2.py](./04-Backtracking-Permutations/math_permutations_2.py) |
+| Segmenttree | Data Structure / General | Data Structures | Medium | [ds_segmenttree.cpp](./05-Data-Structures/ds_segmenttree.cpp) |
+| Queue Using Two Stacks | HackerRank | Data Structures | Medium | [hackerrank_queue_using_two_stacks.cpp](./05-Data-Structures/hackerrank_queue_using_two_stacks.cpp) |
+| Simple Text Editor | HackerRank | Data Structures | Medium | [hackerrank_simple_text_editor.cpp](./05-Data-Structures/hackerrank_simple_text_editor.cpp) |
+| 84 - Largest Rectangle | LeetCode | Data Structures | Medium | [leetcode_84_largest_rectangle.cpp](./05-Data-Structures/leetcode_84_largest_rectangle.cpp) |
+| Ssam219G | SPOJ | Data Structures | Medium | [spoj_ssam219g.cpp](./05-Data-Structures/spoj_ssam219g.cpp) |
+| Reorder | String / General | Strings | Medium | [string_reorder.cpp](./06-Strings/string_reorder.cpp) |
+| 1167C - News Distribution | Codeforces | Disjoint Set Union | Medium | [codeforces_1167c_news_distribution.cpp](./07-Disjoint-Set-Union/codeforces_1167c_news_distribution.cpp) |
+| Merging Communities | HackerRank | Disjoint Set Union | Medium | [hackerrank_merging_communities.cpp](./07-Disjoint-Set-Union/hackerrank_merging_communities.cpp) |
+| 547 - Number Of Provinces | LeetCode | Disjoint Set Union | Medium | [leetcode_547_number_of_provinces.cpp](./07-Disjoint-Set-Union/leetcode_547_number_of_provinces.cpp) |
+| Bosses | VNOJ | Disjoint Set Union | Medium | [vnoj_bosses.cpp](./07-Disjoint-Set-Union/vnoj_bosses.cpp) |
+| Cay Khung Day Nhat | VNOJ | Disjoint Set Union | Medium | [vnoj_cay_khung_day_nhat.cpp](./07-Disjoint-Set-Union/vnoj_cay_khung_day_nhat.cpp) |
+| Colquery | VNOJ | Disjoint Set Union | Hard | [vnoj_colquery.cpp](./07-Disjoint-Set-Union/vnoj_colquery.cpp) |
+| Cutting A Graph | VNOJ | Disjoint Set Union | Medium | [vnoj_cutting_a_graph.cpp](./07-Disjoint-Set-Union/vnoj_cutting_a_graph.cpp) |
+| Dsu | VNOJ | Disjoint Set Union | Medium | [vnoj_dsu.cpp](./07-Disjoint-Set-Union/vnoj_dsu.cpp) |
+| Gia Tri Tap | VNOJ | Disjoint Set Union | Medium | [vnoj_gia_tri_tap.cpp](./07-Disjoint-Set-Union/vnoj_gia_tri_tap.cpp) |
+| Moi Nguoi Dang Roi Di | VNOJ | Disjoint Set Union | Medium | [vnoj_moi_nguoi_dang_roi_di.cpp](./07-Disjoint-Set-Union/vnoj_moi_nguoi_dang_roi_di.cpp) |
+| Monkeys | VNOJ | Disjoint Set Union | Hard | [vnoj_monkeys.cpp](./07-Disjoint-Set-Union/vnoj_monkeys.cpp) |
+| Parking | VNOJ | Disjoint Set Union | Medium | [vnoj_parking.cpp](./07-Disjoint-Set-Union/vnoj_parking.cpp) |
+| Tai Cau Truc Cong Ty | VNOJ | Disjoint Set Union | Medium | [vnoj_tai_cau_truc_cong_ty.cpp](./07-Disjoint-Set-Union/vnoj_tai_cau_truc_cong_ty.cpp) |
+| Tro Con Bo | VNOJ | Disjoint Set Union | Medium | [vnoj_tro_con_bo.cpp](./07-Disjoint-Set-Union/vnoj_tro_con_bo.cpp) |
 
-*(Danh sách sẽ được tiếp tục cập nhật trong quá trình luyện tập)*
+*(Danh sách tự động cập nhật)*
 
 ## Notes
 
